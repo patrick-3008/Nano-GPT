@@ -25,9 +25,9 @@ To get started with Nano-GPT, clone this repository and install the necessary de
 Usage
 -----
 
-To train the model on the Shakespeare dataset just run the python notebook:        
+To train the model on the Shakespeare dataset just run the python notebook  
     
-After training, you can generate text using the trained model by running:        
+After training, you can generate text using the trained model        
 
 You can customize parameters like the length of the generated text, the temperature (for randomness), and more.
 
