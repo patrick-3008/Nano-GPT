@@ -39,5 +39,3 @@ This project uses the approach outlined in Andrej Karpathy's blog post and tutor
 *   **Andrej Karpathy**: Special thanks to Andrej Karpathy for his inspiring work on neural networks and GPT models. His blog and teachings were pivotal in the development of this project.
 
 email: patricknaashat@yahoo.com
-
-Enjoy using Todoey!
